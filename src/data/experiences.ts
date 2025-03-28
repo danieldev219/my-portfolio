@@ -17,7 +17,7 @@ const experiences: IExperienceItem[] = [
     designation: "Full Stack AI Developer",
     company: "Upwork • Freelance",
     startDate: "Aug 2023",
-    endDate: "Mar 2025",
+    endDate: "Nov 2024",
     isCurrentJob: false,
     location: "Dargenham, UK",
     description: [
@@ -29,7 +29,7 @@ const experiences: IExperienceItem[] = [
   {
     designation: "Full Stack Software Developer",
     company: "Entheology Project • Full time",
-    startDate: "Feb 2023",
+    startDate: "Oct 2022",
     endDate: "Jul 2023",
     isCurrentJob: false,
     location: "Remote - Lazuri, Romania",
@@ -41,8 +41,8 @@ const experiences: IExperienceItem[] = [
   {
     designation: "Full Stack Developer",
     company: "Freelancer • Freelance",
-    startDate: "Feb 2023",
-    endDate: "Jul 2023",
+    startDate: "Aug 2019",
+    endDate: "Jun 2023",
     isCurrentJob: false,
     location: "Remote - Lazuri, Romania",
     description: [

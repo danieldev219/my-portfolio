@@ -42,7 +42,7 @@ const projects: IProjectItem[] = [
     icon: "/skills/flutter.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/rudyapollo/social-media-app-flutter",
+    githubUrl: "https://github.com/danieldev219/social-media-app-flutter",
     tags: ["Flutter", "Dart", "GetX", "Hive"],
   },
   {
@@ -53,7 +53,7 @@ const projects: IProjectItem[] = [
     icon: "/skills/nestjs.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/rudyapollo/social-media-api-nodejs",
+    githubUrl: "https://github.com/danieldev219/social-media-api-nodejs",
     tags: ["Node.js", "Express.js", "MongoDB", "WebSocket"],
   },
   {
@@ -64,7 +64,7 @@ const projects: IProjectItem[] = [
     icon: "/skills/nodejs.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/rudyapollo/ecommerce-api-nodejs",
+    githubUrl: "https://github.com/danieldev219/ecommerce-api-nodejs",
     tags: ["Node.js", "Express.js", "MongoDB", "Stripe"],
   },
 ]
